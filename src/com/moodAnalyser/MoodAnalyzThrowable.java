@@ -1,6 +1,7 @@
 package com.moodAnalyser;
 
 public class MoodAnalyzer extends Throwable {
+	
 	public static void welcome() {
 		System.out.println("Welcome to Mood Analyzer");
 		System.out.println("========================");
